@@ -1,0 +1,4 @@
+#!/bin/bash
+
+docker stop express
+docker rm express

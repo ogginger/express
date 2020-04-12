@@ -1,0 +1,4 @@
+#!/bin/bash
+
+/home/josh/express/rm_express
+/home/josh/express/run_express
